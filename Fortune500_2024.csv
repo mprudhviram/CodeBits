@@ -1,4 +1,4 @@
-﻿Rank,Company,Industry,City,State,Zip,Website,Employees,"Revenue (in millions, USD)","Valuation (in millions, USD)","Profits (in millions, USD)",Profits (% of Sales),Ticker,CEO
+rank,company,industry,city,state,zip,website,employees,revenue_in_millions_usd,valuation_in_millions_usd,profits_in_millions_usd,profits_percent_of_sales,ticker,ceo
 1,Walmart,General Merchandisers,Bentonville,Arkansas,72716,www.walmart.com,2100000,611289,397475,11680,1.9,WMT,Douglas McMillon
 2,Amazon.com,Internet Services and Retailing,Seattle,Washington,98109,www.amazon.com,1541000,513983,1058440,-2722,-0.5,AMZN,Andrew R. Jassy
 3,Exxon Mobil,Petroleum Refining,Irving,Texas,75039,www.exxonmobil.com,62000,413680,446424,55740,13.5,XOM,Darren W. Woods
